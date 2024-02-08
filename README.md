@@ -1,4 +1,4 @@
-# Wikipedia Pageviews Analysis Project
+# Wikipedia Pageviews Analysis
 
 ## Overview
 
